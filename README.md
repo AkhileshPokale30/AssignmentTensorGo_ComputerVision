@@ -2,7 +2,7 @@
 
 ## Overview
 
-This application performs statistical analysis and generates various plots for a given dataset. It processes student data and visualizes statistics, such as mean, median, mode, standard deviation, and correlation. Additionally, it generates confusion matrices for demonstration purposes.
+This application performs statistical analysis and generates various plots for a given dataset. It processes student data and visualizes statistics, such as mean, median, mode, standard deviation, and correlation. Additionally, it generates confusion matrices for demonstration purposes. 
 
 ## Installation
 
