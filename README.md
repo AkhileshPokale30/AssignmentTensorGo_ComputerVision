@@ -13,11 +13,6 @@ Follow the steps below to set up and run the application:
     git clone https://github.com/AkhileshPokale30/AssignmentTensorGo_ComputerVision.git
     cd stat_analysis_app
 
-2. **Set Up a Virtual Environment:**
-   ```sh
-    python -m venv venv
-    source venv/bin/activate   # On Windows: venv\Scripts\activate
-
 3. **Install Dependencies:**
    ```sh
     pip install -r requirements.txt
